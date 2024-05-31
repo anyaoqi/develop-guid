@@ -1,6 +1,7 @@
 // https://vitepress.dev/zh/reference/site-config
 export default {
   // 站点级选项
+  base: './',
   title: '前端开发规范',
   description: '',
   srcDir: 'src',
