@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a1 as n}from"./chunks/framework.Dtl2lYvd.js";const g=JSON.parse('{"title":"命名规范","description":"","frontmatter":{},"headers":[],"relativePath":"docs/命名规范.md","filePath":"docs/命名规范.md"}'),e={name:"docs/命名规范.md"},t=n("",25),l=[t];function h(p,k,o,r,d,c){return i(),a("div",null,l)}const u=s(e,[["render",h]]);export{g as __pageData,u as default};

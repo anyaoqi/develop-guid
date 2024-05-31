@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a1 as o}from"./chunks/framework.Dtl2lYvd.js";const p=JSON.parse('{"title":"前端开发规范","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"README.md"}'),i={name:"index.md"},r=o("",2),_=[r];function s(c,l,n,d,h,m){return a(),t("div",null,_)}const u=e(i,[["render",s]]);export{p as __pageData,u as default};

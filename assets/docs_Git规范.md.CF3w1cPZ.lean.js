@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a1 as i}from"./chunks/framework.Dtl2lYvd.js";const b=JSON.parse('{"title":"Git规范","description":"","frontmatter":{},"headers":[],"relativePath":"docs/Git规范.md","filePath":"docs/Git规范.md"}'),o={name:"docs/Git规范.md"},l=i("",20),r=[l];function s(n,c,u,d,h,m){return t(),e("div",null,r)}const p=a(o,[["render",s]]);export{b as __pageData,p as default};
