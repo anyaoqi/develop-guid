@@ -1,16 +1,18 @@
 // https://vitepress.dev/zh/reference/site-config
+const base = process.env.NODE_ENV === 'production' ? '/develop-guid/' : ''
 export default {
   // 站点级选项
-  base: '/develop-guid/',
+  base,
   title: '前端开发规范',
   description: '',
-  srcDir: 'src',
+  srcDir: '',
   themeConfig: {
     logo: '/logo.ico',
+    home: true,
     // 导航
     nav: [
       { text: '首页', link: '/index' },
-      { text: '代码规范', link: '/docs/code' },
+      { text: '代码规范', link: '/docs/代码规范' },
       { text: '命名规范', link: '/docs/name' },
       { text: 'Git规范', link: '/docs/git' }
     ],
@@ -20,5 +22,6 @@ export default {
     },
   },
   rewrites: {
+    'README.md': 'index.md',
   }
 }
