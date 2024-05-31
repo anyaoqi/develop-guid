@@ -21,6 +21,9 @@ export default {
       level: [2,4],
       label: '文章导航'
     },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/anyaoqi/develop-guid' },
+    ]
   },
   rewrites: {
     'README.md': 'index.md',
