@@ -11,9 +11,11 @@ export default {
     nav: [
       { text: '首页', link: '/index' },
       { text: '代码规范', link: '/docs/code' },
-      { text: '开发规范', link: '/docs/dev' }
+      { text: '命名规范', link: '/docs/name' },
+      { text: 'Git规范', link: '/docs/git' }
     ],
     outline: {
+      level: [2,4],
       label: '文章导航'
     },
   },
