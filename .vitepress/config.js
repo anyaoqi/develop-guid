@@ -10,8 +10,8 @@ export default {
     // 导航
     nav: [
       { text: '首页', link: '/index' },
-      { text: '代码规范', link: '/docs/code' },
-      { text: '开发规范', link: '/docs/dev' }
+      { text: '代码规范', link: '/docs/code/index' },
+      { text: '开发规范', link: '/docs/dev/index' }
     ],
     outline: {
       label: '文章导航'
